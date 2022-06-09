@@ -26,7 +26,6 @@ disableKinds: ['RSS']
 disableHugoGeneratorInject: true
 disablePathToLower: true
 enableRobotsTXT: true
-googleAnalytics: 'UA-7036673-1'
 
 mediaTypes:
   application/rdf:
